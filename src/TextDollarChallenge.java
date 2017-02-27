@@ -1,8 +1,5 @@
 import java.util.HashMap;
 
-/**
- * Created by Dharin on 2/24/2017.
- */
 public class TextDollarChallenge {
 
     public static void main(String abc[]){
